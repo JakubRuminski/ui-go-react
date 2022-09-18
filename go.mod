@@ -1,4 +1,4 @@
-module github.com/jakubruminski/ui-go+react
+module github.com/jakubruminski/ui-go-react
 
 go 1.19
 
